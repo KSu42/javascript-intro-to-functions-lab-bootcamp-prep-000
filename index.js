@@ -24,9 +24,10 @@ function whisper(string) {
 
 function sayHiToGrandma(string) {
   if (string === uppercase)
-  return ('YES INDEED!')
+  return ("YES INDEED!")
 }
 
-function sayHiToGrandma(string)
+function sayHiToGrandma(string) {
   if (string === lowercase)
-  return ('')
+  return ("I can't hear you!")
+}
