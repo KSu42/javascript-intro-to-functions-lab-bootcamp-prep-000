@@ -22,7 +22,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  if (string === uppercase)
+  if (string === 'HELLO')
   console.log(string)
 }
 
